@@ -38,6 +38,7 @@ MonitoramentoBot: Classe principal que gerencia eventos do Discord.
 ## Comentários:
 
 melhorias:
+
 Esta versão está ainda com alguns erros, mas o modo de uso foi facilitado e não vai ser necessário modificar alguma coisa no código para configurar os tokens ou ID de chat do Telegram. Com isso veio a função de excluir configurações e ver configurações salvas.
 
 Erros:
