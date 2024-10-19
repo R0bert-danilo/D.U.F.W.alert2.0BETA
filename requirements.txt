@@ -1,0 +1,5 @@
+discord.py
+nltk
+pyfiglet
+requests
+colorama
